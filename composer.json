@@ -1,0 +1,22 @@
+{
+    "name": "phpimages/yeshili",
+	"description": "测试1",
+    "type": "library",
+	"homepage": "http://www.yojiameng.com/",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jimmy",
+            "email": "583870616@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "phpimages\\yeshili\\": "src/"
+        }
+    }
+}
